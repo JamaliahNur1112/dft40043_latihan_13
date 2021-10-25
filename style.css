@@ -1,0 +1,61 @@
+h1 {
+    color:teal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+  }
+  h2 {
+      text-align: center;
+      font-style: oblique;
+      font-weight: normal;
+}
+  div {
+    background-color: blue;
+    color: white;
+    font-style:italic;
+    font-weight: bold;
+  } 
+  h3 {
+    text-align: right;
+    text-decoration: underline;
+    background-size: 20px;
+    background-color: skyblue;
+}
+p.uppercase {
+    text-transform: uppercase;
+  }
+  
+  p.lowercase {
+    text-transform: lowercase;
+  }
+  
+  p.capitalize {
+    text-transform: capitalize;
+  }
+  p {
+    text-indent: 50px;
+    
+  }
+  h2 {
+    letter-spacing: 5px;
+  }
+  
+  h3 {
+    letter-spacing: -2px;
+  }
+  h1 {
+    text-shadow: 2px 2px red;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+p.normal {
+    font-variant: normal;
+  }
+  
+  p.small {
+    font-variant: small-caps;
+  }
+  body {
+    font-family: "Sofia", sans-serif;
+  }
+
+
+  
